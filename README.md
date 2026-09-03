@@ -144,13 +144,14 @@ The investigation also established a sequence of deletion-related web research, 
 ## Repository Structure
 
 ```text
-DFIR_Deleted_Evidence_Portfolio/
+windows-deleted-evidence-anti-forensics-lab/
 ├── README.md
 ├── .gitignore
-├── LinkedIn_Project_Description.txt
 ├── Screenshot_Index.md
 ├── hashes/
-│   └── README.md
+│   ├── README.md
+│   ├── MASTER_SHA256.csv
+│   └── WORKING_SHA256.csv
 ├── reports/
 │   ├── DFIR-2026-001_Forensic_Report.docx
 │   └── DFIR-2026-001_Forensic_Report.pdf
